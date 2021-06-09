@@ -1,1 +1,1 @@
-# cubos-academy-psel-isa
+Resolução dos desafios técnicos da Cubos Academy
